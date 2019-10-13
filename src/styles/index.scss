@@ -94,6 +94,7 @@ body{
     .slider-pro{
       margin-bottom: 15px;
     }
+    
 
     .blog-post{
       margin-bottom: 30px;
@@ -112,6 +113,7 @@ body{
       }
     }
   }
+  
   .blog-footer{
     min-height: 150px;
     background-color: $footer-bgcolor;
@@ -149,3 +151,10 @@ body{
     }
   }
 }
+.Card{
+    color:beige;
+    text-align: center;
+    h2{
+      font-size: 62px
+    }
+  }

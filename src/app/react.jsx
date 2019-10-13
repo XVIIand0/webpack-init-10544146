@@ -1,9 +1,8 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
-import App from './components/counter'
+import App from './components/card'
 
 const MainScreen = () => <div className='alert'>
-    <h1>Counter</h1>
     <App />
 </div>
 
